@@ -1,5 +1,5 @@
 public class Greed{
-  
+    //https://www.codewars.com/kata/5270d0d18625160ada0000e4/train/java
     public static int greedy(int[] dice){
       int[] nums = new int[7];
       int res = 0;
